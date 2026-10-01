@@ -10,32 +10,56 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 506 >>
+<< /Length 1651 >>
 stream
 BT
 /F1 18 Tf
 50 760 Td
-(NORTHSTAR INDUSTRIAL) Tj
-0 -32 Td
-/F1 12 Tf
-(Invoice INV-NS-8841) Tj
-0 -22 Td
-(Invoice date: 01 Oct 2026) Tj
-0 -22 Td
-(PO number: PO-24119) Tj
-0 -22 Td
+(NORTHSTAR INDUSTRIAL SUPPLIES                                     INVOICE) Tj
+0 -26 Td
+/F1 10 Tf
+(45 Harbour View Road, Sydney NSW 2000) Tj
+0 -20 Td
+(ABN 41 605 774 220  |  accounts@northstar.example) Tj
+0 -20 Td
 () Tj
-0 -22 Td
-(Manufacturing supplies                         $17,850.00) Tj
-0 -22 Td
-(GST                                                     $892.50) Tj
-0 -22 Td
-(Freight                                                $210.00) Tj
-0 -22 Td
+0 -20 Td
+(BILL TO: FlowLedger AP Operations                 Invoice number: INV-NS-8841) Tj
+0 -20 Td
+(100 Market Street, Sydney NSW 2000                Issue date: 01 Oct 2026) Tj
+0 -20 Td
+(                                                        Purchase order: PO-24119) Tj
+0 -20 Td
+(                                                        Payment terms: Net 30) Tj
+0 -20 Td
 () Tj
-0 -22 Td
-(Total amount                                  $18,742.50) Tj
-0 -22 Td
+0 -20 Td
+(DESCRIPTION                                      QTY       UNIT PRICE       AMOUNT) Tj
+0 -20 Td
+(Manufacturing components                             8        $1,100.00     $8,800.00) Tj
+0 -20 Td
+(Control assemblies                                  4        $1,860.00     $7,440.00) Tj
+0 -20 Td
+(Packing and handling                                1        $1,400.00     $1,400.00) Tj
+0 -20 Td
+() Tj
+0 -20 Td
+(                                                       Subtotal             $17,640.00) Tj
+0 -20 Td
+(                                                       GST                     $892.50) Tj
+0 -20 Td
+(                                                       Freight                 $210.00) Tj
+0 -20 Td
+(                                                       TOTAL DUE           $18,742.50) Tj
+0 -20 Td
+() Tj
+0 -20 Td
+(PAYMENT DETAILS) Tj
+0 -20 Td
+(Commonwealth Bank  |  BSB 062-000  |  Account 1045 8765) Tj
+0 -20 Td
+(Please quote INV-NS-8841 with your payment. Thank you for your business.) Tj
+0 -20 Td
 ET
 endstream
 endobj
@@ -49,9 +73,9 @@ xref
 0000000068 00000 n 
 0000000125 00000 n 
 0000000251 00000 n 
-0000000808 00000 n 
+0000001954 00000 n 
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-878
+2024
 %%EOF
