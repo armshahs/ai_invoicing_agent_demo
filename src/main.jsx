@@ -5,4 +5,5 @@ import './polish.css'
 import './integrations.css'
 import './chart-fix.css'
 import './dark-theme.css'
+import './pdf-viewer.css'
 createRoot(document.getElementById('root')).render(<App />)
