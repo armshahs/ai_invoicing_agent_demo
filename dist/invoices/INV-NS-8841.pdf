@@ -7,75 +7,84 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 1651 >>
+<< /Length 3636 >>
 stream
-BT
-/F1 18 Tf
-50 760 Td
-(NORTHSTAR INDUSTRIAL SUPPLIES                                     INVOICE) Tj
-0 -26 Td
-/F1 10 Tf
-(45 Harbour View Road, Sydney NSW 2000) Tj
-0 -20 Td
-(ABN 41 605 774 220  |  accounts@northstar.example) Tj
-0 -20 Td
-() Tj
-0 -20 Td
-(BILL TO: FlowLedger AP Operations                 Invoice number: INV-NS-8841) Tj
-0 -20 Td
-(100 Market Street, Sydney NSW 2000                Issue date: 01 Oct 2026) Tj
-0 -20 Td
-(                                                        Purchase order: PO-24119) Tj
-0 -20 Td
-(                                                        Payment terms: Net 30) Tj
-0 -20 Td
-() Tj
-0 -20 Td
-(DESCRIPTION                                      QTY       UNIT PRICE       AMOUNT) Tj
-0 -20 Td
-(Manufacturing components                             8        $1,100.00     $8,800.00) Tj
-0 -20 Td
-(Control assemblies                                  4        $1,860.00     $7,440.00) Tj
-0 -20 Td
-(Packing and handling                                1        $1,400.00     $1,400.00) Tj
-0 -20 Td
-() Tj
-0 -20 Td
-(                                                       Subtotal             $17,640.00) Tj
-0 -20 Td
-(                                                       GST                     $892.50) Tj
-0 -20 Td
-(                                                       Freight                 $210.00) Tj
-0 -20 Td
-(                                                       TOTAL DUE           $18,742.50) Tj
-0 -20 Td
-() Tj
-0 -20 Td
-(PAYMENT DETAILS) Tj
-0 -20 Td
-(Commonwealth Bank  |  BSB 062-000  |  Account 1045 8765) Tj
-0 -20 Td
-(Please quote INV-NS-8841 with your payment. Thank you for your business.) Tj
-0 -20 Td
-ET
+0.05 0.12 0.25 rg 0 708 612 84 re f
+BT /F2 23 Tf 1 1 1 rg 1 0 0 1 48 754 Tm (NORTHSTAR) Tj ET
+BT /F1 9 Tf 0.73 0.83 0.98 rg 1 0 0 1 49 738 Tm (INDUSTRIAL SUPPLIES) Tj ET
+BT /F2 24 Tf 1 1 1 rg 1 0 0 1 430 748 Tm (INVOICE) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 678 Tm (Northstar Industrial Supplies) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 663 Tm (45 Harbour View Road) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 648 Tm (Sydney NSW 2000  |  ABN 41 605 774 220) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 352 678 Tm (INVOICE NUMBER) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 352 663 Tm (INV-NS-8841) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 474 678 Tm (ISSUE DATE) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 474 663 Tm (01 Oct 2026) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 352 632 Tm (PURCHASE ORDER) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 352 617 Tm (PO-24119) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 474 632 Tm (PAYMENT TERMS) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 474 617 Tm (Net 30) Tj ET
+0.83 0.86 0.91 RG .7 w 48 590 m 564 590 l S
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 568 Tm (BILL TO) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 552 Tm (FlowLedger AP Operations) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 537 Tm (100 Market Street) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 522 Tm (Sydney NSW 2000) Tj ET
+0.93 0.95 0.99 rg 48 478 516 25 re f
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 62 487 Tm (DESCRIPTION) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 360 487 Tm (QTY) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 420 487 Tm (UNIT PRICE) Tj ET
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 510 487 Tm (AMOUNT) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 62 456 Tm (Manufacturing components) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 365 456 Tm (8) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 422 456 Tm (1,100.00) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 510 456 Tm (8,800.00) Tj ET
+0.83 0.86 0.91 RG .7 w 48 443 m 564 443 l S
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 62 422 Tm (Control assemblies) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 365 422 Tm (4) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 422 422 Tm (1,860.00) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 510 422 Tm (7,440.00) Tj ET
+0.83 0.86 0.91 RG .7 w 48 409 m 564 409 l S
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 62 388 Tm (Packing and handling) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 365 388 Tm (1) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 422 388 Tm (1,400.00) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 510 388 Tm (1,400.00) Tj ET
+0.83 0.86 0.91 RG .7 w 48 375 m 564 375 l S
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 410 344 Tm (Subtotal) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 510 344 Tm (17,640.00) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 410 324 Tm (GST) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 510 324 Tm (892.50) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 410 304 Tm (Freight) Tj ET
+BT /F1 10 Tf 0.09 0.12 0.18 rg 1 0 0 1 510 304 Tm (210.00) Tj ET
+0.05 0.12 0.25 rg 390 264 174 26 re f
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 404 274 Tm (TOTAL DUE) Tj ET
+BT /F2 10 Tf 1 1 1 rg 1 0 0 1 506 274 Tm (18,742.50) Tj ET
+0.83 0.86 0.91 RG .7 w 48 232 m 564 232 l S
+BT /F2 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 210 Tm (PAYMENT DETAILS) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 194 Tm (Commonwealth Bank  |  BSB 062-000  |  Account 1045 8765) Tj ET
+BT /F1 9 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 178 Tm (Please quote INV-NS-8841 with your payment. Thank you for your business.) Tj ET
+BT /F1 8 Tf 0.09 0.12 0.18 rg 1 0 0 1 48 74 Tm (Questions? accounts@northstar.example  |  Issued electronically.) Tj ET
 endstream
 endobj
 5 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
 0000000019 00000 n 
 0000000068 00000 n 
 0000000125 00000 n 
-0000000251 00000 n 
-0000001954 00000 n 
+0000000261 00000 n 
+0000003949 00000 n 
+0000004019 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-2024
+4094
 %%EOF
