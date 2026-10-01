@@ -4,4 +4,5 @@ import './styles.css'
 import './polish.css'
 import './integrations.css'
 import './chart-fix.css'
+import './dark-theme.css'
 createRoot(document.getElementById('root')).render(<App />)
